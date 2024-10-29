@@ -1,0 +1,52 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Data Structures",
+      "stars": 4,
+      "review": "Great professor who explains concepts well, but exams can be challenging."
+    },
+    {
+      "professor": "Dr. Emily Wong",
+      "subject": "Operating Systems",
+      "stars": 5,
+      "review": "Very knowledgeable and helpful. Lectures are organized and clear."
+    },
+    {
+      "professor": "Prof. Michael Johnson",
+      "subject": "Algorithms",
+      "stars": 3,
+      "review": "Interesting lectures but grades harshly. Make sure to study a lot."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "subject": "Database Systems",
+      "stars": 2,
+      "review": "Expects too much for the time given, but assignments are useful for learning."
+    },
+    {
+      "professor": "Prof. Rachel Brown",
+      "subject": "Artificial Intelligence",
+      "stars": 5,
+      "review": "Engaging and passionate about AI. Clear explanations and great projects."
+    },
+    {
+      "professor": "Dr. David Martinez",
+      "subject": "Computer Networks",
+      "stars": 4,
+      "review": "Solid professor. Lectures can be a bit dense, but assignments are helpful."
+    },
+    {
+      "professor": "Dr. Anna Wilson",
+      "subject": "Machine Learning",
+      "stars": 3,
+      "review": "Fairly knowledgeable, but can go off-topic. Assignments are quite tough."
+    },
+    {
+      "professor": "Prof. Karen Patel",
+      "subject": "Introduction to Programming",
+      "stars": 5,
+      "review": "Best professor I've had! Makes programming enjoyable and easy to understand."
+    }
+  ]
+}
